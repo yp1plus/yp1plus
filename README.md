@@ -1,6 +1,6 @@
 ## Hi there 👋, welcome to my special place
 
-### I'm a 3rd year Computer Science student at University of São Paulo (USP) in Brazil
+### I'm a 4th year Computer Science student at University of São Paulo (USP) in Brazil
 
 - 🔭 I’m currently working on my startup Pop Cred
 - 🌱 I’m currently practicing for Technical Interviews
