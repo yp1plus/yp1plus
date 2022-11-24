@@ -2,8 +2,8 @@
 
 ### I'm a 4th year Computer Science student at University of São Paulo (USP) in Brazil
 
-- 🔭 I’m currently working on my startup Pop Cred
-- 🌱 I’m currently practicing for Technical Interviews
+- 🔭 I’m currently working at Amazon as Software Engineer Intern
+- 😆 I have a startup called How to Get Ann Offer to help brazilians to apply for big tech companies
 - 🎯 I’m looking for challenging job experiences
 - 📫 How to reach me: yurepablo9@gmail.com
 - ⚡ Fun fact: My first big project it was a school grade simulator in Pascal, the first programming language I've learned.
