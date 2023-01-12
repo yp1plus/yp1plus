@@ -2,7 +2,7 @@
 
 ### I'm a 4th year Computer Science student at University of São Paulo (USP) in Brazil
 
-- 🔭 I’m currently working at Amazon as Software Engineer Intern
+- 🔭 I’m currently working at Bhub as Software Engineer
 - 😆 I have a startup called How to Get Ann Offer to help brazilians to apply for big tech companies
 - 🎯 I’m looking for challenging job experiences
 - 📫 How to reach me: yurepablo9@gmail.com
